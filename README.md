@@ -1,4 +1,4 @@
-# 2024-Gwangju
+# 2025-Gwangju
 
 ### ssh port 변경
 /etc/ssh/sshd_config
